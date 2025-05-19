@@ -10,7 +10,7 @@ SITEMAP_URL = "https://artigos.libanoeducacional.com.br/sitemap.xml"
 WEBHOOK_ALERTA_URL = "https://discordapp.com/api/webhooks/1372564442297925663/KU2eKlnJxyp3U7vrmi53B15_qANzceNgv4eQHTNm6ItSQc9NMXsKwuVjm8QVseoDVoqq"
 WEBHOOK_RELATORIO_URL = "https://discordapp.com/api/webhooks/1372625073911103508/f6gy1wi1j-Vfd_6ZCF7Llj6qxJPItwmZZ0kpPWxunIJrkNH3GspoUgmo3e6gAVgjFB5C"
 
-INTERVALO_MINUTOS = 5
+INTERVALO_MINUTOS = 60
 HORARIO_RELATORIO = "18:00"
 
 quedas_hoje = 0
