@@ -7,8 +7,8 @@ import threading
 SITEMAP_URL = "https://artigos.libanoeducacional.com.br/sitemap.xml"
 
 # 🔔 Webhooks do Discord
-WEBHOOK_ALERTA_URL = "https://discordapp.com/api/webhooks/1372564442297925663/KU2eKlnJxyp3U7vrmi53B15_qANzceNgv4eQHTNm6ItSQc9NMXsKwuVjm8QVseoDVoqq"
-WEBHOOK_RELATORIO_URL = "https://discordapp.com/api/webhooks/1372625073911103508/f6gy1wi1j-Vfd_6ZCF7Llj6qxJPItwmZZ0kpPWxunIJrkNH3GspoUgmo3e6gAVgjFB5C"
+WEBHOOK_ALERTA_URL = "https://discord.com/api/webhooks/1374797538288205955/zz6VqTr_7u5IZ6fDOcTlDgObFRcfZ0_JhzPabn2ibK4SGbjmfGssNu7kseNP3_XnQZJB"
+WEBHOOK_RELATORIO_URL = "https://discord.com/api/webhooks/1374797887208292392/JPWbxaU3zQSIqfWBIjgVsHPo11re94yQ_fjEdEp1WlvSHeBTK42IV6oeUyml3GB5Mcqi"
 
 INTERVALO_MINUTOS = 60
 HORARIO_RELATORIO = "18:00"
